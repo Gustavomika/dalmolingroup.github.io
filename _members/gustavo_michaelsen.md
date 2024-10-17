@@ -10,4 +10,4 @@ aliases:
     - Gustavo Lovatto Michaelsen
 ---
 
-I have a bachelor's degree in Biotechnology - Bioinformatics from the Federal University of Rio Grande do Sul (2021) and a Master’s degree in Bioinformatics at the Federal University of Rio Grande do Norte. Currently, I am a PhD student in Bioinformatics at the Federal University of Rio Grande do Norte.
+He holds a degree in Biotechnology - Bioinformatics from the Federal University of Rio Grande do Sul (2021). Also a Master's degree in Bioinformatics from the Postgraduate Program in Bioinformatics at the Federal University of Rio Grande do Norte (UFRN) (2023). He is currently a doctoral student in bioinformatics at the same UFRN program. He is part of the bioinformatics laboratory of the Children's Cancer Institute of Porto Alegre RS, researching in central nervous system pediatric tumors, specifically in the analysis of clinical and tumor omics data such as transcriptomics, genomics, and epigenomics. He is also part of the Dalmolin System Biology Group at UFRN, carrying out research in the same areas.
